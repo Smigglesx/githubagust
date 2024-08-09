@@ -10,15 +10,22 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url(images/darkpexels-danbuilds-633409.jpg);
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .contianer {
     width: 80%;
     height: 100%;
+    /* color: whitesmoke; */
     display: flex;
     justify-content: center;
     align-items: center;
 }
 h1 {
     font-size: 4rem;
+    color: red;
 }
